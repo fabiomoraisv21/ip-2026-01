@@ -19,6 +19,4 @@ func main() {
 		for i := 0; i < y; i++ {
 			fmt.Print(x+i*2, " ")
 		}
-		fmt.Println()
-	}
 }
